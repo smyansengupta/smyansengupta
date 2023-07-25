@@ -6,7 +6,7 @@ I'm Smyan, I enjoy cubing, biking, robotics, and other random computer things.
 Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working on something cool 😉
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Flask
 - 💬 Ask me about anything <a href=https://github.com/smyansengupta/smyansengupta/discussions>here</a>
 - 📫 Reach me at <a href=mailto:senguptasmyan@gmail.com>@smyansengupta</a>
 - 😄 Pronouns: He/Him
