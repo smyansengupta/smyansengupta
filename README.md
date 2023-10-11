@@ -9,4 +9,3 @@ Here are some ideas to get you started:-->
 - 💬 Ask me about anything <a href=https://github.com/smyansengupta/smyansengupta/discussions>here</a>
 - 📫 Reach me at <a href=mailto:senguptasmyan@gmail.com>@smyansengupta</a>
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I have a dog
