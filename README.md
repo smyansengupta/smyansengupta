@@ -9,5 +9,3 @@ Here are some ideas to get you started:-->
 - 💬 Ask me about anything <a href=https://github.com/smyansengupta/smyansengupta/discussions>here</a>
 - 📫 Reach me at <a href=mailto:senguptasmyan@gmail.com>@smyansengupta</a>
 - 😄 Pronouns: He/Him
-
-[![Smyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=smyansengupta)](https://github.com/anuraghazra/github-readme-stats)
