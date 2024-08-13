@@ -10,4 +10,4 @@ Here are some ideas to get you started:-->
 - 📫 Reach me at <a href=mailto:senguptasmyan@gmail.com>@smyansengupta</a>
 - 😄 Pronouns: He/Him
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smyansengupta)](https://github.com/anuraghazra/github-readme-stats)
+[![Smyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=smyansengupta)](https://github.com/anuraghazra/github-readme-stats)
